@@ -24,24 +24,7 @@ Using HR dataset insights, the dashboard enables users to examine workforce tren
 
 ---
 
-# 4. Data Source
-
-The dataset used for this project was sourced from **GitHub HR Analytics Dataset**.
-
-It contains employee information such as:
-
-- Employee demographics  
-- Department and job role  
-- Salary and compensation details  
-- Overtime information  
-- Attrition status  
-- Years at company
-
-This dataset enables the analysis of employee turnover trends and workforce insights.
-
----
-
-# 5. Feature Highlights
+# 4. Feature Highlights
 
 ### 📊 Attrition Overview
 - Displays total employees, attrition count, and attrition rate.
@@ -69,7 +52,7 @@ This dataset enables the analysis of employee turnover trends and workforce insi
 
 ---
 
-# 6. Dashboard Workflow
+# 5. Dashboard Workflow
 
 1️⃣ Data Cleaning using **Excel**  
 2️⃣ Data Analysis using **MySQL**  
@@ -78,7 +61,7 @@ This dataset enables the analysis of employee turnover trends and workforce insi
 
 ---
 
-# 7. Screenshot Demo
+# 6. Screenshot Demo
 
 ## Dashboard Overview
 
@@ -86,7 +69,7 @@ This dataset enables the analysis of employee turnover trends and workforce insi
 
 ---
 
-# 8. Business Insights
+# 7. Business Insights
 
 Some key insights derived from the dashboard:
 
@@ -99,7 +82,7 @@ These insights can help organizations improve **employee retention strategies an
 
 ---
 
-# 9. Author
+# 8. Author
 
 **Khushi Duggelwar**
 
